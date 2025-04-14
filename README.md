@@ -1,3 +1,122 @@
-# Python-note
+# Python 学习文档目录
 
-+ Python 学习记录
+---
+
+## 📘 基础docs
+
++ [01-字符串](./基础docs/01-字符串.md)  
++ [02-list和tuple](./基础docs/02-list和tuple.md)  
++ [03-条件判断和循环](./基础docs/03-条件判断和循环.md)  
++ [04-dict和set](./基础docs/04-dict和set.md)  
++ [05-函数](./基础docs/05-函数.md)  
++ [06-切片](./基础docs/06-切片.md)  
++ [07-列表生成式，生成器，迭代器](./基础docs/07-列表生成式，生成器，迭代器.md)  
++ [08-函数式编程](./基础docs/08-函数式编程.md)  
++ [09-模块](./基础docs/09-模块.md)  
++ [10-面向对象编程](./基础docs/10-面向对象编程.md)  
++ [11-面向对象编程高级特性](./基础docs/11-面向对象编程高级特性.md)  
++ [12-错误调试和测试](./基础docs/12-错误调试和测试.md)  
++ [13-IO编程](./基础docs/13-IO编程.md)  
++ [14-进程和线程](./基础docs/14-进程和线程.md)  
++ [15-正则表达式](./基础docs/15-正则表达式.md)  
++ [16-内建模块-datetime](./基础docs/16-内建模块-datetime.md)  
++ [17-内建模块-collections](./基础docs/17-内建模块-collections.md)  
++ [18-内建模块-base64](./基础docs/18-内建模块-base64.md)  
++ [19-操作MySQL数据库](./基础docs/19-操作MySQL数据库.md)  
++ [20-数据采集](./基础docs/20-数据采集.md)  
++ [21-Python文件处理](./基础docs/21-Python文件处理.md)  
++ [22-Python正则表达式](./基础docs/22-Python正则表达式.md)  
++ [23-sys](./基础docs/23-sys.md)  
++ [24-装饰器](./基础docs/24-装饰器.md)  
+
+### 📄 基础docs/code
+
++ [01-str.py](./基础docs/code/01-str.py)  
++ [02-list-tuple.py](./基础docs/code/02-list-tuple.py)  
++ [03-loop.py](./基础docs/code/03-loop.py)  
++ [04-dict.py](./基础docs/code/04-dict.py)  
++ [05-fn.py](./基础docs/code/05-fn.py)  
++ [06-切片.py](./基础docs/code/06-切片.py)  
++ [07-l.py](./基础docs/code/07-l.py)  
++ [08-high-fn.py](./基础docs/code/08-high-fn.py)  
++ [10-class.py](./基础docs/code/10-class.py)  
+
+---
+
+## 🕷️ 爬虫
+
++ [01-urllib,Cookie,Requests](./爬虫/01-urllib,Cookie,Requests.md)  
++ [02-简单的爬取拉勾网](./爬虫/02-简单的爬取拉勾网.md)  
++ [03-爬取豆瓣电影页面](./爬虫/03-爬取豆瓣电影页面.md)  
++ [04-爬取电影天堂](./爬虫/04-爬取电影天堂.md)  
++ [05-爬取中国天气网](./爬虫/05-爬取中国天气网.md)  
++ [06-操作CSV](./爬虫/06-操作CSV.md)  
++ [07-多线程爬虫](./爬虫/07-多线程爬虫.md)  
++ [08-多线程爬虫表情包](./爬虫/08-多线程爬虫表情包.md)  
++ [09-selenium的使用-01](./爬虫/09-selenium的使用-01.md)  
++ [09-selenium的使用-02](./爬虫/09-selenium的使用-02.md)  
++ [10-爬取拉勾网](./爬虫/10-爬取拉勾网.md)  
+
+---
+
+## 🧠 进阶docs
+
++ [01-字典和列表](./进阶docs/01-字典和列表.md)  
++ [02-迭代器](./进阶docs/02-迭代器.md)  
++ [03-字符串](./进阶docs/03-字符串.md)  
++ [04-一切皆对象](./进阶docs/04-一切皆对象.md)  
++ [05-魔法函数](./进阶docs/05-魔法函数.md)  
++ [06-深入类和对象](./进阶docs/06-深入类和对象.md)  
++ [07-自定义序列类](./进阶docs/07-自定义序列类.md)  
++ [08-dict和set](./进阶docs/08-dict和set.md)  
++ [09-对象引用-可变性-垃圾回收](./进阶docs/09-对象引用-可变性-垃圾回收.md)  
++ [10-元类编程](./进阶docs/10-元类编程.md)  
++ [11-序列构成的数组](./进阶docs/11-序列构成的数组.md)  
+
+### ⚙️ 进阶docs/code
+
++ [01-object.py](./进阶docs/code/01-object.py)  
++ [02-type_object_class.py](./进阶docs/code/02-type_object_class.py)  
++ [03-magic_func.py](./进阶docs/code/03-magic_func.py)  
++ [04-duck_type.py](./进阶docs/code/04-duck_type.py)  
++ [05-abc01.py](./进阶docs/code/05-abc01.py)  
++ [05-abc02.py](./进阶docs/code/05-abc02.py)  
++ [06-isinstance_type.py](./进阶docs/code/06-isinstance_type.py)  
++ [07-class_instance_var.py](./进阶docs/code/07-class_instance_var.py)  
++ [08-inherited.py](./进阶docs/code/08-inherited.py)  
++ [09-methods.py](./进阶docs/code/09-methods.py)  
++ [10-data_encapsulation.py](./进阶docs/code/10-data_encapsulation.py)  
++ [11-Introspection.py](./进阶docs/code/11-Introspection.py)  
++ [12-super.py](./进阶docs/code/12-super.py)  
++ [13-with.py](./进阶docs/code/13-with.py)  
++ [14-contextlib.py](./进阶docs/code/14-contextlib.py)  
++ [15-sequence.py](./进阶docs/code/15-sequence.py)  
++ [16-collections.py](./进阶docs/code/16-collections.py)  
++ [17-list.py](./进阶docs/code/17-list.py)  
++ [18-slice.py](./进阶docs/code/18-slice.py)  
++ [19-bisect.py](./进阶docs/code/19-bisect.py)  
++ [20-array.py](./进阶docs/code/20-array.py)  
++ [21-list_gen.py](./进阶docs/code/21-list_gen.py)  
++ [22-collections_abc.py](./进阶docs/code/22-collections_abc.py)  
++ [23-dict.py](./进阶docs/code/23-dict.py)  
++ [24-set.py](./进阶docs/code/24-set.py)  
++ [25-dict_set.py](./进阶docs/code/25-dict_set.py)  
++ [26-var.py](./进阶docs/code/26-var.py)  
++ [27-is_==.py](./进阶docs/code/27-is_==.py)  
++ [28-del_gc.py](./进阶docs/code/28-del_gc.py)  
++ [29-error.py](./进阶docs/code/29-error.py)  
++ [30-property-dynamic.py](./进阶docs/code/30-property-dynamic.py)  
++ [31-getattr_getattribute.py](./进阶docs/code/31-getattr_getattribute.py)  
++ [32-property_descriptor.py](./进阶docs/code/32-property_descriptor.py)  
++ [33-new_init.py](./进阶docs/code/33-new_init.py)  
++ [34-define_meta_class.py](./进阶docs/code/34-define_meta_class.py)  
++ [35-fs.py](./进阶docs/code/35-fs.py)  
++ [36-进度条.py](./进阶docs/code/36-进度条.py)  
++ [37-decorator.py](./进阶docs/code/37-decorator.py)  
++ [38-http.py](./进阶docs/code/38-http.py)  
++ [39-bisect.py](./进阶docs/code/39-bisect.py)  
++ [40-array.py](./进阶docs/code/40-array.py)  
++ [41-memoryview.py](./进阶docs/code/41-memoryview.py)  
++ [42-deque.py](./进阶docs/code/42-deque.py)  
++ [lyric.txt](./进阶docs/code/lyric.txt)  
++ [封装.py](./进阶docs/code/封装.py)  

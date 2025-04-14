@@ -9,7 +9,7 @@ def render(path):
 
 
 def index(environ):
-    return render('./html/index.html')
+    return render('html/index.html')
 
 
 def login(req):
@@ -18,12 +18,12 @@ def login(req):
     print('--------------------------------------------------------')
     print('method: ', method)
     if method == 'GET':
-        return render('./html/login.html')
+        return render('html/login.html')
     elif method == 'POST':
         username = req['QUERY_STRING']
         print('username')
         print(username)
-        return render('./html/login-post.html')
+        return render('html/login-post.html')
 
 
 def signup():
@@ -58,7 +58,7 @@ def application(environ, start_response):
     print('func')
     print(func)
     if func is None:
-        return [render('./html/404.html')]
+        return [render('html/404.html')]
 
     return [func(environ)]
 
